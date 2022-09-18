@@ -6,7 +6,7 @@ namespace Snake_and_Ladder_Game
     {
         static void Main(string[] args)
         {
-            //Initializing Constants
+           //Initializing Constants
             const int LADDER = 1;
             const int NOPLAY = 2;
             const int SNAKE = 3;
